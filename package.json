@@ -1,0 +1,35 @@
+{
+	"name": "param-to-url",
+	"version": "0.0.1",
+	"description": "Use React HOC keep param to url",
+	"main": "dist/index.js",
+	"scripts": {
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/smbera/param-to-url.git"
+	},
+	"keywords": [
+		"React",
+		"param-to-url",
+		"param",
+		"url"
+	],
+	"author": "smbera@163.com",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/smbera/param-to-url/issues"
+	},
+	"homepage": "https://github.com/smbera/param-to-url#readme",
+	"devDependencies": {
+		"@babel/core": "^7.10.4",
+		"@babel/preset-env": "^7.10.4",
+		"babel-loader": "^8.1.0",
+		"ts-loader": "^7.0.5",
+		"typescript": "^3.9.6",
+		"webpack": "^4.43.0",
+		"webpack-cli": "^3.3.12"
+	},
+	"dependencies": {}
+}
